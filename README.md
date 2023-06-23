@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate CSE student who is always eager to learn and explore different fields. My skills include Web development (HTML, CSS, JavaScript, React, Express. js), Marketing, Video Editing, C,C++ and Python.<br><br>I am currently learning MongoDB, Node. js and OpenCV. <br><br>I am also interested in the fields of Cyber security, AI/ML and Gaming Technology.
+I am a passionate CSE student who is always eager to learn and explore different fields. My skills include Data Science, Data Analytics, Machine Learning, Web development (HTML, CSS, JavaScript, React, Express. js), C,C++ and Python.<br><br>I am currently learning MongoDB, Node. js and OpenCV. <br><br>I am also interested in the fields of Cyber security and Gaming Technology.
 
 
 ## 🌐 Socials:
