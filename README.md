@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am a passionate CSE student who is always eager to learn and explore different fields. My skills include Data Science, Data Analytics, Machine Learning, Web development (HTML, CSS, JavaScript, React, Express. js), C,C++ and Python.<br><br>I am currently learning MongoDB, Node. js and OpenCV. <br><br>I am also interested in the fields of Cyber security and Gaming Technology.
+As a dedicated student at SRM University with a strong passion for machine learning, data and analytics, I am on a mission to leverage my skills and experiences to make a meaningful impact in the world of business analysis. With a blend of technical proficiency and problem-solving acumen, I am well-equipped to contribute valuable insights and drive data-driven decision-making.
+
+I am an advocate for continuous learning and innovation, and I am constantly seeking opportunities to expand my knowledge and skill set. If you share a passion for data, analytics, or technology, I would love to connect with you and explore potential collaborations or discussions.
+
+Let's connect and embark on a journey of learning and growth together!
 
 
 ## 🌐 Socials:
